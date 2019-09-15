@@ -2,7 +2,7 @@
 name: Vinod Jagdale
 email: mr.vinod.jagdale@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Java,Soring,Hibernate,SOAP Webservices, Agile, Pair Programming"
+keywords: "Software Engineer, Java,Spring,Hibernate,SOAP Webservices, Agile, Pair Programming"
 skills: "Senior Software Engineer in Mumbai,India"
 baseurl:
 
@@ -10,11 +10,13 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
+    url: https://www.linkedin.com/in/vinod-jagdale/
   - title: medium
     url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
+ # - title: twitter
+ #   url: https://twitter.com/chuck_groom
+  - title: instagram
+    url: https://www.instagram.com/vinod.jagdale/
     
 # Google webmaster tools
 google_verify:
